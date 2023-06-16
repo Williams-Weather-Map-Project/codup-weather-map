@@ -1,0 +1,52 @@
+#map{
+    aspect-ratio: 5/4;
+    border-radius: 5px;
+}
+
+.icon-sizing{
+    width: 50px;
+    height: 50px;
+}
+
+#right-side-menu{
+    border-radius: 5px;
+}
+
+.forecast-card{
+    height: 10em;
+    width: 17em;
+}
+
+.top-card-container{
+    width: 17.5em;
+}
+
+.forecast-title{
+    height: 8em;
+    width: 17em;
+}
+
+.right-side-scroll-container{
+    height: 50em;
+    width: 19em;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.top-scroll-container{
+    width: 90vw;
+    height: 11em;
+    overflow-x: scroll;
+    overflow-y: clip;
+    border-radius: 5px;
+}
+
+.weather-map-logo{
+    width: 4.5em;
+    height: 4.5em;
+}
+
+.weather-map-logo-footer{
+    width: 3em;
+    height: 3em;
+}
